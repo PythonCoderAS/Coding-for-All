@@ -1,0 +1,11 @@
+Input Module
+	Prompt: NumberOfMales, NumberOfFemales
+	Input: NumberOfMales, NumberOfFemales
+Calculations Module:
+	Set TotalStudents = NumberOfMales + NumberOfFemales
+	Set PercentMale = (NumberOfMales / TotalStudents) * 100
+	Set PercentFemale = (NumberOfFemales / TotalStudents) * 100
+Output Module:
+	Write TotalStudents
+	Write PercentMale
+  Write PercentFemale
