@@ -1,0 +1,9 @@
+Input Module
+	Prompt: SalesPersonName, SalesAmount, CommissionRate
+	Input: SalesPersonName, SalesAmount, CommissionRate
+Calculations Module:
+	Set CommissionEarned=(SalesAmount*CommissionRate)/100
+Output Module:
+	Write SalesPersonName
+	Write SalesAmount
+	Write CommissionEarned
