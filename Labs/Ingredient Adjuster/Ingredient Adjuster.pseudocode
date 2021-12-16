@@ -1,0 +1,12 @@
+Input Module
+	Prompt: AmountOfCookies
+	Input: AmountOfCookies
+Calculations Module:
+	Set CookieRatio = AmountOfCookies / 48
+	Set Sugar = 1.5 * CookieRatio
+	Set Butter = 1 * CookieRatio
+	Set Flour = 2.75 * CookieRatio
+Output Module:
+	Write Sugar 
+	Write Butter 
+	Write Flour 
